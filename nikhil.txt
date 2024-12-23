@@ -1,1 +1,4 @@
 Hello
+
+git status
+git add nikhil.txt
