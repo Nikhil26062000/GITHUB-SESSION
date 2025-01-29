@@ -1,4 +1,1 @@
-This is conflict msg
-hello world master
-this is new code
-hello this is scannerehdhgvdshg
+Hello world
