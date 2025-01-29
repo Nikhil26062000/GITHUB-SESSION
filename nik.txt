@@ -1,2 +1,2 @@
 This is conflict msg
-hello world nikhil session2
+hello world master
